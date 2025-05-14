@@ -14,9 +14,9 @@ import Textarea from "react-textarea-autosize";
 import Image from "next/image";
 
 const examples = [
-  "Example 1",
-  "Example 2",
-  "Example 3",
+  "What are the minimum requirements for internet browsers?",
+  "I received a "Content not available" message",
+  "I want to test my system to see if it meets minimum requirements.",
 ];
 
 export default function Chat() {
@@ -83,10 +83,10 @@ export default function Chat() {
               className="h-20 w-20"
             />
             <h1 className="text-lg font-semibold text-black">
-              Hi, I'm a fine tuned LLM.
+              Hi, I'm your webinar troubleshooting assistant.
             </h1>
             <p className="text-gray-500">
-              I'm part of a series of computational experiments taught by{" "}
+              I'm part of a workshop taught by{" "}
               <a
                 href="https://linkin.bio/yallahalim/"
                 target="_blank"
