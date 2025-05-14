@@ -15,7 +15,7 @@ import Image from "next/image";
 
 const examples = [
   "What are the minimum requirements for internet browsers?",
-  "I received a "Content not available" message",
+  "I received a Content not available message",
   "I want to test my system to see if it meets minimum requirements.",
 ];
 
